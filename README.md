@@ -43,19 +43,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 
-## <h2 align=center> Trophy Cabinet </h2>
-
-<p align=center>
-<img align=center src="https://github-profile-trophy.vercel.app/?username=Akshay-choudhary-Ji&theme=monokai&row=2&column=3&margin-w=8&margin-h=8">
-</p>
-
 <a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-choudhary-Ji&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Akshay's github stats" />
 </a>
-
-<a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
-</a>  
 
 <a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
