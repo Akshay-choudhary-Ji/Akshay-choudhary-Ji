@@ -53,3 +53,8 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-choudhary-Ji"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Akshay-choudhary-Ji&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<!-- Change the `github-readme-stats.Akshay-choudhary-Ji.vercel.app` to `github-readme-stats.vercel.app`  -->
+
+<a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.Akshay-choudhary-Ji.vercel.app/api?username=Akshay-choudhary-Ji&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
