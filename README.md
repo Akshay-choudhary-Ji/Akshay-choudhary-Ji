@@ -56,3 +56,7 @@
 <a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
 </a>  
+
+<a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+</a>
