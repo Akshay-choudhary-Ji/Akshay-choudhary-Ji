@@ -1,4 +1,4 @@
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Akshay - aka [Akshay-Choudhary-Ji][https://akshay-choudhary-ji.github.io/] 👋
+### Hi there, I'm Akshay - aka Akshay-Choudhary-Ji <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 ## I'm a Student, Developer, Designer, and Gamer!
 - 🔭 I’m currently working on a Flutter Development Course.
