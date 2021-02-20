@@ -50,5 +50,9 @@
 </p>
 
 <a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-choudhary-Ji&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshay-choudhary-Ji&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Akshay's github stats" />
 </a>
+
+<a href="https://github.com/Akshay-choudhary-Ji/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=material-palenight" />
+</a>  
